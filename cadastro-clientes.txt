@@ -1,3 +1,4 @@
 joao
+pedro
 alice
 jose
